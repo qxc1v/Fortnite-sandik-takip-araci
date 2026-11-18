@@ -1,4 +1,4 @@
-# Fortnite-Sand-k-Sayac-Dashboard-Canl-Takip-Arac-
+# Fortnite-Sandik-Sayaci-Dashboard-Canli-Takip-Araci-
 
 Dosyada imza (Microsoft sertifikası) olmadığı için uyarı veriyor ek bilgi kısmından yine de çalıştır derseniz sorun olmaz.
 
