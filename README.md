@@ -1,5 +1,7 @@
 # Fortnite-Sand-k-Sayac-Dashboard-Canl-Takip-Arac-
 
+Dosyada imza (Microsoft sertifikası) olmadığı için uyarı veriyor ek bilgi kısmından yine de çalıştır derseniz sorun olmaz.
+
 Oyun oynarken aralıksız sandık açıyoruz ama "Acaba bu oturum kaç sandık açtım, dakikada kaç kasıyorum?" sorusunun cevabını elle tutmak imkansız olduğu için bu aracı geliştirdik. Tamamen hızlı, şık ve yormayan bir terminal aracıdır.
 
 🌟 Özellikleri Nelerdir?
